@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppWeb_Astro
+build_property.RootNamespace = AppWeb_Astro
+build_property.ProjectDir = C:\Users\junio\OneDrive\Datos adjuntos\Documentos\AppWeb Astro\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\junio\OneDrive\Datos adjuntos\Documentos\AppWeb Astro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Astronautas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXN0cm9uYXV0YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Astronautas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXN0cm9uYXV0YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Astronautas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXN0cm9uYXV0YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Astronautas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXN0cm9uYXV0YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Astronautas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXN0cm9uYXV0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/MisionesEspaciales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzaW9uZXNFc3BhY2lhbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/MisionesEspaciales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzaW9uZXNFc3BhY2lhbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/MisionesEspaciales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzaW9uZXNFc3BhY2lhbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/MisionesEspaciales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzaW9uZXNFc3BhY2lhbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/MisionesEspaciales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzaW9uZXNFc3BhY2lhbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/junio/OneDrive/Datos adjuntos/Documentos/AppWeb Astro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sv1wrsa2yq
